@@ -1,0 +1,25 @@
+{
+    "gadgets": [
+        {
+            "id": 1,
+            "name": "Smartphone X",
+            "image": "smartphone.jpg",
+            "likes": 10,
+            "wishlisted": false
+        },
+        {
+            "id": 2,
+            "name": "Gaming Laptop",
+            "image": "laptop.jpg",
+            "likes": 15,
+            "wishlisted": false
+        },
+        {
+            "id": 3,
+            "name": "Wireless Earbuds",
+            "image": "earbuds.jpg",
+            "likes": 7,
+            "wishlisted": false
+        }
+    ]
+}
