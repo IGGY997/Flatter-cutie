@@ -20,6 +20,13 @@
             "image": "earbuds.jpg",
             "likes": 7,
             "wishlisted": false
+        },
+        {
+            "id": 4,
+            "name": "Smartwatch",
+            "image": "smartwatch.jpg",
+            "likes": 12,
+            "wishlisted": false
         }
     ]
 }
